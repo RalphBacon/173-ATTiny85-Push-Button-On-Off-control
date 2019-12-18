@@ -17,7 +17,9 @@ Why Buy Your Printed Circuit Boards From PCBWay?
   * Factory Outlet PCBs with most competitive advantages  
   * Chief PCB Manufacturer Located in China 
 ```
-So a simple ATTiny85 can control the power to any attached device (3v 20v, 800mA-20A) which can include a DC-to-DC Buck-Boost circuit if you need higher voltages.
+So a simple ATTiny85 can control the power to any attached electronic µC device (3v 20v, 800mA-20A) which can include a DC-to-DC Buck-Boost circuit if you need higher voltages.
+
+This builds on our previous circuit and adds a shedload of intelligence on the digital logic we already have. Best of all, you can tewak the code to suit whatever application you have in mind!
 
 
 
@@ -41,12 +43,19 @@ https://amzn.to/2EmO0mL
 <br>
 <br>
 <br>
-
-
-
-
-
-
-SendOnlySerialSoftware.h  
-Gammon's Link and Copy of Library  
+<br>
+Nick Gammon's SendOnlySerialSoftware Library - ideal for ATTiny85  
 https://github.com/nickgammon/SendOnlySoftwareSerial  
+
+### List of all my videos
+(Special thanks to Michael Kurt Vogel for compiling this)  
+http://bit.ly/YouTubeVideoList-RalphBacon
+
+If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so and joining me on my Arduinite journey
+
+My channel, GitHub and blog are here:  
+\------------------------------------------------------------------  
+https://www.youtube.com/RalphBacon  
+https://ralphbacon.blog  
+https://github.com/RalphBacon
+\------------------------------------------------------------------
