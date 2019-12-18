@@ -19,17 +19,13 @@ Why Buy Your Printed Circuit Boards From PCBWay?
 ```
 So a simple ATTiny85 can control the power to any attached electronic µC device (3v 20v, 800mA-20A) which can include a DC-to-DC Buck-Boost circuit if you need higher voltages.
 
-This builds on our previous circuit and adds a shedload of intelligence on the digital logic we already have. Best of all, you can tewak the code to suit whatever application you have in mind!
+<img src="/CircuitDiagram.jpg" width="75%">
 
+This builds on our previous circuit and adds a shedload of intelligence to the digital logic we already have. Best of all, you can tweak the code to suit whatever application you have in mind!
 
-
-
-
-
-
-
-
-
+### List of all my videos
+(Special thanks to Michael Kurt Vogel for compiling this)  
+http://bit.ly/YouTubeVideoList-RalphBacon
 
 ### LINKS
 
@@ -47,9 +43,34 @@ https://amzn.to/2EmO0mL
 Nick Gammon's SendOnlySerialSoftware Library - ideal for ATTiny85  
 https://github.com/nickgammon/SendOnlySoftwareSerial  
 
-### List of all my videos
-(Special thanks to Michael Kurt Vogel for compiling this)  
-http://bit.ly/YouTubeVideoList-RalphBacon
+Linear Technologies **LTC2954** from RS Components UK Warehouse, about £3 / $4:  
+https://uk.rs-online.com/web/c/semiconductors/power-management-ics/voltage-supervisors/?searchTerm=LTC2954  
+
+**LTC2954** From AliExpress, $10 for 5 pieces free shipping:  
+http://s.click.aliexpress.com/e/nLNYrk4s  
+
+DUAL MOSFET CJMCU-4599 Si4599 N and P Channel MOSFET Expansion Board $1.89 each or $4.08 for 3 pieces:  
+**Single:**  https://www.banggood.com/CJMCU-4599-Si4599-N-and-P-Channel-40V-D-S-MOSFET-Expansion-Board-Module-p-1350610.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897  
+**3 Pieces:**  https://www.banggood.com/3pcs-CJMCU-4599-Si4599-N-and-P-Channel-40V-D-S-MOSFET-Expansion-Board-Module-p-1363266.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897  
+
+**Datasheet for LTC2954**:  
+https://www.analog.com/media/en/technical-documentation/data-sheets/2954fb.pdf  
+
+**Datasheet for Si4599** dual MOSFET:  
+https://www.vishay.com/docs/68971/si4599dy.pdf  
+
+Interactive **cheat sheet** for calculating potential (resistor) divider values:  
+http://www.ohmslawcalculator.com/voltage-divider-calculator
+
+### Popular Links  
+YIHUA 938D Portable Hot **Tweezers Mini** Soldering Station 110V/220V    
+https://bit.ly/2M8R0bj  
+
+DANIU Heavy Duty Soldering Solder Iron **Tip Cleaner** Steel Wire $3.33 from China, higher price local warehouse  
+http://bit.ly/SolderingIronCLeaner
+
+SMD Components Solder **Practice Module Kit** - all components incl QFP chips  
+http://bit.ly/SMDPracticeBoard
 
 If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so and joining me on my Arduinite journey
 
