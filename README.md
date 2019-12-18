@@ -17,7 +17,7 @@ Why Buy Your Printed Circuit Boards From PCBWay?
   * Factory Outlet PCBs with most competitive advantages  
   * Chief PCB Manufacturer Located in China 
 ```
-So a simple ATTiny85 can control the power to any attached electronic µC device (3v 20v, 800mA-20A) which can include a DC-to-DC Buck-Boost circuit if you need higher voltages.
+So a simple ATTiny85 can control the power to any attached electronic µC device (3v-20v, 800mA-20A) which can include a DC-to-DC Buck-Boost circuit if you need higher voltages.
 
 <img src="/CircuitDiagram.jpg" width="75%">
 
