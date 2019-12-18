@@ -1,4 +1,4 @@
-# TTTiny85 Push Button On-Off control
+# ATTiny85 Push Button On-Off control
 Control external appliances using this cheap and easy ATTiny85 control module
 
 ### See https://www.youtube.com/ralphbacon video #173  
