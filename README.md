@@ -78,5 +78,5 @@ My channel, GitHub and blog are here:
 \------------------------------------------------------------------  
 https://www.youtube.com/RalphBacon  
 https://ralphbacon.blog  
-https://github.com/RalphBacon
+https://github.com/RalphBacon  
 \------------------------------------------------------------------
