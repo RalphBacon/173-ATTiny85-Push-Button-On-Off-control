@@ -42,17 +42,18 @@ https://amzn.to/2EmO0mL
 <br>
 <img src="https://imgaz.staticbg.com/images/oaupload/banggood/images/52/BD/a8f165ed-35a6-48ef-a8f3-87bfaee9e83f.jpg" width=25%" align="left">
 SONOFF® **Basic 10A 2200W WIFI Wireless** Smart Switch $4.49 (expires soon):  
-https://www.banggood.com/custlink/D3vvst5Ejd  
-                                                                                                                                         <br>
+https://www.banggood.com/custlink/D3vvst5Ejd
 <br>
 <br>
 <br>
 <br>
 <br>
+<br>
+<br>                                                                                                                                  <br>
 <br>
 Nick Gammon's **SendOnlySerialSoftware** Library - ideal for ATTiny85  
 https://github.com/nickgammon/SendOnlySoftwareSerial  
-
+<br>
 Linear Technologies **LTC2954** from RS Components UK Warehouse, about £3 / $4:  
 https://uk.rs-online.com/web/c/semiconductors/power-management-ics/voltage-supervisors/?searchTerm=LTC2954  
 
