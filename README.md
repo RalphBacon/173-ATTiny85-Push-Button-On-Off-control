@@ -32,7 +32,7 @@ http://bit.ly/YouTubeVideoList-RalphBacon
 <img border="0" src="https://images-eu.ssl-images-amazon.com/images/I/517LNj8FyML._SL160_.jpg" align="left">
 Atolla USB 3.0 Hub Powered, 11-Port USB 3.0 Extension Splitter  
 7 USB 3.0 Data Ports+4 USB 3.0 Smart Charging Ports)  
-with Individual On/Off Switches and 12V/4A Power Adapter for High Power USB devices
+**with Individual On/Off Switches** and 12V/4A Power Adapter for High Power USB devices
 https://amzn.to/2EmO0mL
 <br>
 <br>
@@ -40,7 +40,17 @@ https://amzn.to/2EmO0mL
 <br>
 <br>
 <br>
-Nick Gammon's SendOnlySerialSoftware Library - ideal for ATTiny85  
+<img src="https://imgaz.staticbg.com/images/oaupload/banggood/images/52/BD/a8f165ed-35a6-48ef-a8f3-87bfaee9e83f.jpg" width=25%" align="left">
+SONOFF® **Basic 10A 2200W WIFI Wireless** Smart Switch $4.49 (expires soon):  
+https://www.banggood.com/custlink/D3vvst5Ejd  
+                                                                                                                                         <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+Nick Gammon's **SendOnlySerialSoftware** Library - ideal for ATTiny85  
 https://github.com/nickgammon/SendOnlySoftwareSerial  
 
 Linear Technologies **LTC2954** from RS Components UK Warehouse, about £3 / $4:  
